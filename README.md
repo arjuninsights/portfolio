@@ -1,4 +1,4 @@
-# My Portfolio | Arjun Kumar
+# Portfolio | Arjun Kumar
 
 Welcome to my portfolio! 👋
 
